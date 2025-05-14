@@ -1,4 +1,5 @@
-# ربات تلگرامی کانفیگ VPN با Cloudflare Workers
+![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=Telegram-VPN-Config-Bot&label=بازدیدها)
+ربات تلگرامی کانفیگ VPN با Cloudflare Workers
 
 ## توضیحات پروژه
 این پروژه یه ربات تلگرامی هست که با استفاده از Cloudflare Workers ساخته شده و به کاربران اجازه می‌ده کانفیگ‌ها یا لینک‌های سابسکریپشن VPN رو بر اساس پروتکل (مثل Vless، Vmess)، لوکیشن (مثل آلمان، آمریکا) یا منابع خاص (مثل V2ray Collector) دریافت کنن. هدفش ساده کردن دسترسی به کانفیگ‌های رایگان و به‌روز از منابع عمومی در گیت‌هاب هست.
